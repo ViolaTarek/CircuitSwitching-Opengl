@@ -1,0 +1,8 @@
+# CircuitSwitching-Opengl
+second assignment in Computer Graphics 4th year Computer Engineering - circuit switching using opengl with glut library (codeblocks)
+Circuit switching :
+is a method of implementing a telecommunications network in which two network nodes establish a dedicated communications channel (circuit)
+through the network before the nodes may communicate
+
+<a href="https://imgflip.com/gif/2kcm6f"><img src="https://i.imgflip.com/2kcm6f.gif" title="made at imgflip.com"/></a>
+
